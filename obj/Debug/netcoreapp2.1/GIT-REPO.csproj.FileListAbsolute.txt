@@ -1,0 +1,11 @@
+C:\Users\ageetha\newApp\GIT-REPO\bin\Debug\netcoreapp2.1\GIT-REPO.deps.json
+C:\Users\ageetha\newApp\GIT-REPO\bin\Debug\netcoreapp2.1\GIT-REPO.runtimeconfig.json
+C:\Users\ageetha\newApp\GIT-REPO\bin\Debug\netcoreapp2.1\GIT-REPO.runtimeconfig.dev.json
+C:\Users\ageetha\newApp\GIT-REPO\bin\Debug\netcoreapp2.1\GIT-REPO.dll
+C:\Users\ageetha\newApp\GIT-REPO\bin\Debug\netcoreapp2.1\GIT-REPO.pdb
+C:\Users\ageetha\newApp\GIT-REPO\obj\Debug\netcoreapp2.1\GIT-REPO.csprojAssemblyReference.cache
+C:\Users\ageetha\newApp\GIT-REPO\obj\Debug\netcoreapp2.1\GIT-REPO.csproj.CoreCompileInputs.cache
+C:\Users\ageetha\newApp\GIT-REPO\obj\Debug\netcoreapp2.1\GIT-REPO.AssemblyInfoInputs.cache
+C:\Users\ageetha\newApp\GIT-REPO\obj\Debug\netcoreapp2.1\GIT-REPO.AssemblyInfo.cs
+C:\Users\ageetha\newApp\GIT-REPO\obj\Debug\netcoreapp2.1\GIT-REPO.dll
+C:\Users\ageetha\newApp\GIT-REPO\obj\Debug\netcoreapp2.1\GIT-REPO.pdb
